@@ -20,7 +20,7 @@
   }
 
   & p {
-    color: #A8A29E;
+    color: var(--drop-area);
   }
 
   &:hover, &:has(input:focus) {

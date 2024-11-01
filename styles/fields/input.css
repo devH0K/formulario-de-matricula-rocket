@@ -68,7 +68,7 @@ input {
 
   & + small {
     font: var(--text-sm);
-    color: #78716C;
+    color: var(--guardian-area);
 
     display: inline-block;
     margin-top: .25rem;
